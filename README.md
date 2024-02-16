@@ -15,12 +15,12 @@ Follow these steps to get started with the tutorials:
 
 1. Clone the repository:
 
-    git clone https://github.com/Bellonee29/spring-boot-tutorial.git
+    git clone https://github.com/Bellonee29/SpringBoot-Tutorial-Day-1.git
   
 
 2. Navigate to the project directory:
 
-    cd spring-boot-tutorial
+    cd SpringBoot-Tutorial-Day-1
 
 3. Follow the individual tutorial README files for detailed instructions.
 
